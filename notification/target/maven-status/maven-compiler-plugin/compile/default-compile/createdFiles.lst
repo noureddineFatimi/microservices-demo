@@ -1,0 +1,7 @@
+microservicesdemo\NotificationRepository.class
+microservicesdemo\NotificationService.class
+microservicesdemo\NotificationApplication.class
+microservicesdemo\Notification$NotificationBuilder.class
+microservicesdemo\rabbitmq\NotificationConsumer.class
+microservicesdemo\Notification.class
+microservicesdemo\NotificationConfig.class

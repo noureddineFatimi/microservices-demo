@@ -16,7 +16,6 @@
         <module>clients</module>
         <module>eureka-server</module>
         <module>api-gateway</module>
-        <module>demo</module>
         <module>amqp</module>
         <module>notification</module>
     </modules>

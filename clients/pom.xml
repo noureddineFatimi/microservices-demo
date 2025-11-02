@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>fraud-client</module>
-        <module>notification</module>
+        <module>notification-librairie</module>
     </modules>
 
     <dependencies>
